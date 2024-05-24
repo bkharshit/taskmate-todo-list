@@ -3,7 +3,7 @@ import './App.css';
 export function App() {
   return (
     <div className="App">
-        Taskmate Todo List
+        <h1>Taskmate Todo List</h1>
     </div>
   );
 }
